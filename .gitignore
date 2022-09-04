@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/KnowledgeBase.Console/bin/Debug/net6.0
+/src/KnowledgeBase.Console/.vs/KnowledgeBase.Console/config
+/src/KnowledgeBase.Console/.vs/KnowledgeBase.Console/DesignTimeBuild
+/src/KnowledgeBase.Console/.vs/KnowledgeBase.Console/FileContentIndex
+/src/KnowledgeBase.Console/.vs/KnowledgeBase.Console/v16
+/src/KnowledgeBase.Console/.vs/KnowledgeBase.Console/v17
+/src/KnowledgeBase.Console/.vs/KnowledgeBase.Console
+/src/KnowledgeBase.Console/obj
+/src/KnowledgeBase.Console/appsettings.development.json
